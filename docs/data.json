@@ -1,0 +1,104 @@
+{
+  "update_time": "2026-05-17 12:38:09",
+  "strategy": "V5 - V1 & V4 重合股筛选",
+  "v1_count": 50,
+  "v4_count": 34,
+  "count": 5,
+  "stocks": [
+    {
+      "code": "300565",
+      "name": "科信技术",
+      "v1_price": 15.6,
+      "v1_change_pct": 2.97,
+      "v1_volume": 611489.0,
+      "v4_price": 15.6,
+      "v4_change_pct": 2.97,
+      "v4_volume": 611489.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "600936",
+      "name": "北投科技",
+      "v1_price": 5.47,
+      "v1_change_pct": 2.05,
+      "v1_volume": 1246223.0,
+      "v4_price": 5.47,
+      "v4_change_pct": 2.05,
+      "v4_volume": 1246223.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "688319",
+      "name": "欧林生物",
+      "v1_price": 39.23,
+      "v1_change_pct": 1.53,
+      "v1_volume": 13913493.0,
+      "v4_price": 39.23,
+      "v4_change_pct": 1.53,
+      "v4_volume": 13913493.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "600483",
+      "name": "福能股份",
+      "v1_price": 10.6,
+      "v1_change_pct": 1.05,
+      "v1_volume": 395790.0,
+      "v4_price": 10.6,
+      "v4_change_pct": 1.05,
+      "v4_volume": 395790.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "300265",
+      "name": "通光线缆",
+      "v1_price": 23.4,
+      "v1_change_pct": -3.07,
+      "v1_volume": 597937.0,
+      "v4_price": 23.4,
+      "v4_change_pct": -3.07,
+      "v4_volume": 597937.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    }
+  ]
+}
