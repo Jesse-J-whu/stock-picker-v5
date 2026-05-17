@@ -1,26 +1,27 @@
 # 鸭口选股 V5
 
-> 在 V4 基础上重构策略逻辑，采用更简洁的入选条件。
+> V5 策略：筛选 **V1 周线爆发** 与 **V4 鸭口选股** 的重合股票
 
 ## 策略说明
 
-### V5 策略逻辑
+### V5 核心逻辑
 
-**前置条件（必须满足）**：
-- 周线当前处于 BOLL 鸭口扩张状态
-- 日线当前处于 BOLL 鸭口扩张状态
+**数据来源**：
+- **V1**: 周线爆发策略 ([stock-picker](https://github.com/Jesse-J-whu/stock-picker))
+- **V4**: 鸭口选股策略 ([stock-picker-v4](https://github.com/Jesse-J-whu/stock-picker-v4))
 
-**入选条件（满足其一即可）**：
+**筛选规则**：
+```
+V5 入选股票 = V1 选股结果 ∩ V4 选股结果
+```
 
-1. **MA 金叉条件**
-   - 当天 5日线上穿 10日线
-   - 当天 5日线上穿 20日线
-   - 当天 10日线上穿 20日线
-   - 三个金叉同时发生
+即：同时满足两种策略条件的股票，技术面呈现双重强势特征。
 
-2. **连续阳线条件**
-   - 连续 6 个交易日的日K线为阳线（close > open）
-   - 或连续 4 周的周K线为阳线（close > open）
+### 入选条件
+
+1. 股票出现在 V1「周线爆发」的选股结果中
+2. 股票同时出现在 V4「鸭口选股」的选股结果中
+3. 取两者代码交集，保留完整的技术面数据
 
 ## 运行方式
 
@@ -29,15 +30,32 @@ pip install -r requirements.txt
 python strategy.py
 ```
 
-结果输出到 `docs/index.html`（GitHub Pages 展示）和 `docs/data.json`。
+结果输出到：
+- `docs/index.html` - GitHub Pages 展示页面
+- `docs/data.json` - 原始数据 JSON
 
 ## 自动运行
 
-通过 GitHub Actions，每个交易日（周一至周五）北京时间 16:30 自动运行，结果发布到 GitHub Pages。
+通过 GitHub Actions，每天定时自动运行：
 
-## 数据来源
+| 时间 (北京时间) | 说明 |
+|----------------|------|
+| 16:30 | 自动获取 V1、V4 最新结果并计算交集 |
 
-腾讯财经前复权 K 线接口（免费公开接口）。
+**注意**：由于 GitHub Actions schedule 有延迟，实际运行时间可能在 16:30 ~ 18:00 之间。
+
+## 数据展示
+
+V5 结果页面展示：
+- **重合股票数量**：同时满足两种策略的股票数
+- **V1 技术面数据**：涨跌幅、成交量等
+- **V4 技术面数据**：BOLL、MACD、OBV、DMA、AMO、KDJ 等六指标详情
+
+## 在线访问
+
+- **V5 结果页面**: https://jesse-j-whu.github.io/stock-picker-v5/
+- **V1 策略页面**: https://jesse-j-whu.github.io/stock-picker/
+- **V4 策略页面**: https://jesse-j-whu.github.io/stock-picker-v4/
 
 ## 免责声明
 
