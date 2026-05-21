@@ -1,7 +1,7 @@
 name: 鸭口选股 V5 - 自动更新
 
 on:
-schedule:
+  schedule:
     # 周一至周五 北京时间 16:30（UTC 08:30）运行
     - cron: '30 8 * * 1-5'
   workflow_dispatch:
