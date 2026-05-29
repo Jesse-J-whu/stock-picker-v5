@@ -1,47 +1,8 @@
 {
-  "update_time": "2026-05-28 11:44:20",
+  "update_time": "2026-05-29 11:45:28",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 25,
-  "v4_count": 44,
-  "count": 2,
-  "stocks": [
-    {
-      "code": "000509",
-      "name": "华塑控股",
-      "v1_price": 5.73,
-      "v1_change_pct": 9.98,
-      "v1_volume": 615409.0,
-      "v4_price": 5.73,
-      "v4_change_pct": 9.98,
-      "v4_volume": 615409.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    },
-    {
-      "code": "688301",
-      "name": "奕瑞科技",
-      "v1_price": 205.77,
-      "v1_change_pct": 7.17,
-      "v1_volume": 10222631.0,
-      "v4_price": 205.77,
-      "v4_change_pct": 7.17,
-      "v4_volume": 10222631.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    }
-  ]
+  "v1_count": 19,
+  "v4_count": 19,
+  "count": 0,
+  "stocks": []
 }
