@@ -1,8 +1,8 @@
 {
-  "update_time": "2026-06-01 13:46:58",
+  "update_time": "2026-06-02 12:35:36",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 10,
-  "v4_count": 21,
+  "v1_count": 0,
+  "v4_count": 22,
   "count": 0,
   "stocks": []
 }
