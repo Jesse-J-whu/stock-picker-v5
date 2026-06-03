@@ -1,8 +1,28 @@
 {
-  "update_time": "2026-06-02 12:35:36",
+  "update_time": "2026-06-03 12:49:13",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 0,
-  "v4_count": 22,
-  "count": 0,
-  "stocks": []
+  "v1_count": 13,
+  "v4_count": 24,
+  "count": 1,
+  "stocks": [
+    {
+      "code": "000430",
+      "name": "张家界",
+      "v1_price": 8.3,
+      "v1_change_pct": 1.72,
+      "v1_volume": 208531.0,
+      "v4_price": 8.3,
+      "v4_change_pct": 1.72,
+      "v4_volume": 208531.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    }
+  ]
 }
