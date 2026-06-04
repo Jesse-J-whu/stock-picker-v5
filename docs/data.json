@@ -1,19 +1,57 @@
 {
-  "update_time": "2026-06-03 12:49:13",
+  "update_time": "2026-06-04 09:13:14",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 13,
-  "v4_count": 24,
-  "count": 1,
+  "v1_count": 20,
+  "v4_count": 34,
+  "count": 3,
   "stocks": [
+    {
+      "code": "300686",
+      "name": "智动力",
+      "v1_price": 19.7,
+      "v1_change_pct": 6.6,
+      "v1_volume": 379519.0,
+      "v4_price": 19.7,
+      "v4_change_pct": 6.6,
+      "v4_volume": 379519.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "600985",
+      "name": "淮北矿业",
+      "v1_price": 16.58,
+      "v1_change_pct": 4.74,
+      "v1_volume": 639538.0,
+      "v4_price": 16.58,
+      "v4_change_pct": 4.74,
+      "v4_volume": 639538.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
     {
       "code": "000430",
       "name": "张家界",
-      "v1_price": 8.3,
-      "v1_change_pct": 1.72,
-      "v1_volume": 208531.0,
-      "v4_price": 8.3,
-      "v4_change_pct": 1.72,
-      "v4_volume": 208531.0,
+      "v1_price": 8.29,
+      "v1_change_pct": -0.12,
+      "v1_volume": 175193.0,
+      "v4_price": 8.29,
+      "v4_change_pct": -0.12,
+      "v4_volume": 175193.0,
       "v4_detail": {
         "BOLL_NOW": "月✓ 周✓ 日✓",
         "BOLL": "月✓ 周✓ 日✓",
