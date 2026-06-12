@@ -1,28 +1,8 @@
 {
-  "update_time": "2026-06-11 12:26:54",
+  "update_time": "2026-06-12 12:08:51",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 7,
-  "v4_count": 36,
-  "count": 1,
-  "stocks": [
-    {
-      "code": "300346",
-      "name": "南大光电",
-      "v1_price": 66.71,
-      "v1_change_pct": 8.08,
-      "v1_volume": 1252645.0,
-      "v4_price": 66.71,
-      "v4_change_pct": 8.08,
-      "v4_volume": 1252645.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    }
-  ]
+  "v1_count": 6,
+  "v4_count": 28,
+  "count": 0,
+  "stocks": []
 }
