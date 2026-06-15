@@ -1,8 +1,28 @@
 {
-  "update_time": "2026-06-12 12:08:51",
+  "update_time": "2026-06-15 14:33:34",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 6,
-  "v4_count": 28,
-  "count": 0,
-  "stocks": []
+  "v1_count": 12,
+  "v4_count": 46,
+  "count": 1,
+  "stocks": [
+    {
+      "code": "300686",
+      "name": "智动力",
+      "v1_price": 18.92,
+      "v1_change_pct": 5.76,
+      "v1_volume": 193793.0,
+      "v4_price": 18.92,
+      "v4_change_pct": 5.76,
+      "v4_volume": 193793.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    }
+  ]
 }
