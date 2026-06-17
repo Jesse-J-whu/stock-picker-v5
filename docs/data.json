@@ -1,57 +1,38 @@
 {
-  "update_time": "2026-06-16 13:10:18",
+  "update_time": "2026-06-17 12:40:12",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 13,
-  "v4_count": 73,
+  "v1_count": 15,
+  "v4_count": 85,
   "count": 4,
   "stocks": [
     {
-      "code": "605588",
-      "name": "冠石科技",
-      "v1_price": 61.97,
-      "v1_change_pct": 9.99,
-      "v1_volume": 44870.0,
-      "v4_price": 61.97,
-      "v4_change_pct": 9.99,
-      "v4_volume": 44870.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    },
-    {
-      "code": "300686",
-      "name": "智动力",
-      "v1_price": 19.53,
-      "v1_change_pct": 3.22,
-      "v1_volume": 192138.0,
-      "v4_price": 19.53,
-      "v4_change_pct": 3.22,
-      "v4_volume": 192138.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    },
-    {
       "code": "603650",
       "name": "彤程新材",
-      "v1_price": 63.99,
-      "v1_change_pct": 3.11,
-      "v1_volume": 245351.0,
-      "v4_price": 63.99,
-      "v4_change_pct": 3.11,
-      "v4_volume": 245351.0,
+      "v1_price": 67.82,
+      "v1_change_pct": 5.99,
+      "v1_volume": 313585.0,
+      "v4_price": 67.82,
+      "v4_change_pct": 5.99,
+      "v4_volume": 313585.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "000691",
+      "name": "亚太实业",
+      "v1_price": 11.58,
+      "v1_change_pct": 3.86,
+      "v1_volume": 257511.0,
+      "v4_price": 11.58,
+      "v4_change_pct": 3.86,
+      "v4_volume": 257511.0,
       "v4_detail": {
         "BOLL_NOW": "月✓ 周✓ 日✓",
         "BOLL": "月✓ 周✓ 日✓",
@@ -65,12 +46,31 @@
     {
       "code": "300346",
       "name": "南大光电",
-      "v1_price": 63.31,
-      "v1_change_pct": 2.73,
-      "v1_volume": 759436.0,
-      "v4_price": 63.31,
-      "v4_change_pct": 2.73,
-      "v4_volume": 759436.0,
+      "v1_price": 65.33,
+      "v1_change_pct": 3.19,
+      "v1_volume": 719412.0,
+      "v4_price": 65.33,
+      "v4_change_pct": 3.19,
+      "v4_volume": 719412.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "300686",
+      "name": "智动力",
+      "v1_price": 19.25,
+      "v1_change_pct": -1.43,
+      "v1_volume": 125342.0,
+      "v4_price": 19.25,
+      "v4_change_pct": -1.43,
+      "v4_volume": 125342.0,
       "v4_detail": {
         "BOLL_NOW": "月✓ 周✓ 日✓",
         "BOLL": "月✓ 周✓ 日✓",
