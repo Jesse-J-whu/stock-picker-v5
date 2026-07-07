@@ -1,57 +1,19 @@
 {
-  "update_time": "2026-07-06 12:28:10",
+  "update_time": "2026-07-07 11:28:48",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 17,
-  "v4_count": 16,
-  "count": 3,
+  "v1_count": 14,
+  "v4_count": 12,
+  "count": 1,
   "stocks": [
-    {
-      "code": "002452",
-      "name": "长高电气",
-      "v1_price": 13.83,
-      "v1_change_pct": 6.96,
-      "v1_volume": 610896.0,
-      "v4_price": 13.83,
-      "v4_change_pct": 6.96,
-      "v4_volume": 610896.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    },
-    {
-      "code": "600379",
-      "name": "宝光股份",
-      "v1_price": 16.71,
-      "v1_change_pct": 6.91,
-      "v1_volume": 445504.0,
-      "v4_price": 16.71,
-      "v4_change_pct": 6.91,
-      "v4_volume": 445504.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    },
     {
       "code": "300540",
       "name": "蜀道装备",
-      "v1_price": 39.92,
-      "v1_change_pct": -3.13,
-      "v1_volume": 198624.0,
-      "v4_price": 39.92,
-      "v4_change_pct": -3.13,
-      "v4_volume": 198624.0,
+      "v1_price": 42.9,
+      "v1_change_pct": 7.46,
+      "v1_volume": 298742.0,
+      "v4_price": 42.9,
+      "v4_change_pct": 7.46,
+      "v4_volume": 298742.0,
       "v4_detail": {
         "BOLL_NOW": "月✓ 周✓ 日✓",
         "BOLL": "月✓ 周✓ 日✓",
