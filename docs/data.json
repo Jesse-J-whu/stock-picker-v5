@@ -1,8 +1,47 @@
 {
-  "update_time": "2026-07-08 10:31:17",
+  "update_time": "2026-07-09 11:29:39",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 11,
-  "v4_count": 7,
-  "count": 0,
-  "stocks": []
+  "v1_count": 13,
+  "v4_count": 8,
+  "count": 2,
+  "stocks": [
+    {
+      "code": "603928",
+      "name": "兴业股份",
+      "v1_price": 18.0,
+      "v1_change_pct": 10.02,
+      "v1_volume": 670688.0,
+      "v4_price": 18.0,
+      "v4_change_pct": 10.02,
+      "v4_volume": 670688.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "300540",
+      "name": "蜀道装备",
+      "v1_price": 47.33,
+      "v1_change_pct": 6.82,
+      "v1_volume": 298022.0,
+      "v4_price": 47.33,
+      "v4_change_pct": 6.82,
+      "v4_volume": 298022.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    }
+  ]
 }
