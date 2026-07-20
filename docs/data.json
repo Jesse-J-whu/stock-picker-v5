@@ -1,8 +1,47 @@
 {
-  "update_time": "2026-07-17 10:06:56",
+  "update_time": "2026-07-20 11:07:37",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 3,
-  "v4_count": 1,
-  "count": 0,
-  "stocks": []
+  "v1_count": 4,
+  "v4_count": 3,
+  "count": 2,
+  "stocks": [
+    {
+      "code": "600483",
+      "name": "福能股份",
+      "v1_price": 11.4,
+      "v1_change_pct": 6.54,
+      "v1_volume": 365122.0,
+      "v4_price": 11.4,
+      "v4_change_pct": 6.54,
+      "v4_volume": 365122.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "600428",
+      "name": "中远海特",
+      "v1_price": 11.17,
+      "v1_change_pct": 5.78,
+      "v1_volume": 1243289.0,
+      "v4_price": 11.17,
+      "v4_change_pct": 5.78,
+      "v4_volume": 1243289.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    }
+  ]
 }
