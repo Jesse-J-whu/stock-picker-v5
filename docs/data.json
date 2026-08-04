@@ -1,8 +1,28 @@
 {
-  "update_time": "2026-08-03 11:33:36",
+  "update_time": "2026-08-04 10:45:20",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 2,
-  "v4_count": 2,
-  "count": 0,
-  "stocks": []
+  "v1_count": 3,
+  "v4_count": 3,
+  "count": 1,
+  "stocks": [
+    {
+      "code": "603679",
+      "name": "华体科技",
+      "v1_price": 21.58,
+      "v1_change_pct": 2.32,
+      "v1_volume": 168107.0,
+      "v4_price": 21.58,
+      "v4_change_pct": 2.32,
+      "v4_volume": 168107.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    }
+  ]
 }
