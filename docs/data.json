@@ -1,19 +1,57 @@
 {
-  "update_time": "2026-08-05 10:42:27",
+  "update_time": "2026-08-06 10:53:33",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 4,
-  "v4_count": 3,
-  "count": 1,
+  "v1_count": 5,
+  "v4_count": 6,
+  "count": 3,
   "stocks": [
+    {
+      "code": "300311",
+      "name": "任子行",
+      "v1_price": 7.16,
+      "v1_change_pct": 19.93,
+      "v1_volume": 1688667.0,
+      "v4_price": 7.16,
+      "v4_change_pct": 19.93,
+      "v4_volume": 1688667.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
     {
       "code": "603679",
       "name": "华体科技",
-      "v1_price": 21.73,
-      "v1_change_pct": 0.7,
-      "v1_volume": 122226.0,
-      "v4_price": 21.73,
-      "v4_change_pct": 0.7,
-      "v4_volume": 122226.0,
+      "v1_price": 22.63,
+      "v1_change_pct": 4.14,
+      "v1_volume": 159559.0,
+      "v4_price": 22.63,
+      "v4_change_pct": 4.14,
+      "v4_volume": 159559.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
+    {
+      "code": "603682",
+      "name": "锦和商管",
+      "v1_price": 11.4,
+      "v1_change_pct": 3.54,
+      "v1_volume": 340837.0,
+      "v4_price": 11.4,
+      "v4_change_pct": 3.54,
+      "v4_volume": 340837.0,
       "v4_detail": {
         "BOLL_NOW": "月✓ 周✓ 日✓",
         "BOLL": "月✓ 周✓ 日✓",
