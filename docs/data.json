@@ -1,38 +1,19 @@
 {
-  "update_time": "2026-08-10 09:39:22",
+  "update_time": "2026-08-11 09:05:08",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 5,
-  "v4_count": 7,
-  "count": 2,
+  "v1_count": 6,
+  "v4_count": 6,
+  "count": 1,
   "stocks": [
     {
       "code": "603682",
       "name": "锦和商管",
-      "v1_price": 11.58,
-      "v1_change_pct": 2.66,
-      "v1_volume": 271781.0,
-      "v4_price": 11.58,
-      "v4_change_pct": 2.66,
-      "v4_volume": 271781.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    },
-    {
-      "code": "300311",
-      "name": "任子行",
-      "v1_price": 6.57,
-      "v1_change_pct": -1.79,
-      "v1_volume": 913273.0,
-      "v4_price": 6.57,
-      "v4_change_pct": -1.79,
-      "v4_volume": 913273.0,
+      "v1_price": 11.8,
+      "v1_change_pct": 1.9,
+      "v1_volume": 223897.0,
+      "v4_price": 11.8,
+      "v4_change_pct": 1.9,
+      "v4_volume": 223897.0,
       "v4_detail": {
         "BOLL_NOW": "月✓ 周✓ 日✓",
         "BOLL": "月✓ 周✓ 日✓",
