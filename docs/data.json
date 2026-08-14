@@ -1,47 +1,8 @@
 {
-  "update_time": "2026-08-13 09:18:15",
+  "update_time": "2026-08-14 09:12:44",
   "strategy": "V5 - V1 & V4 重合股筛选",
-  "v1_count": 9,
-  "v4_count": 6,
-  "count": 2,
-  "stocks": [
-    {
-      "code": "603466",
-      "name": "风语筑",
-      "v1_price": 13.72,
-      "v1_change_pct": 10.02,
-      "v1_volume": 1428297.0,
-      "v4_price": 13.72,
-      "v4_change_pct": 10.02,
-      "v4_volume": 1428297.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    },
-    {
-      "code": "603682",
-      "name": "锦和商管",
-      "v1_price": 13.16,
-      "v1_change_pct": 6.9,
-      "v1_volume": 287938.0,
-      "v4_price": 13.16,
-      "v4_change_pct": 6.9,
-      "v4_volume": 287938.0,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    }
-  ]
+  "v1_count": 8,
+  "v4_count": 4,
+  "count": 0,
+  "stocks": []
 }
