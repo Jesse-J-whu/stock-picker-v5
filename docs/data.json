@@ -1,19 +1,38 @@
 {
-  "update_time": "2026-08-17 08:50:51",
+  "update_time": "2026-08-18 08:43:56",
   "strategy": "V5 - V1 & V4 重合股筛选",
   "v1_count": 8,
-  "v4_count": 7,
-  "count": 1,
+  "v4_count": 9,
+  "count": 2,
   "stocks": [
+    {
+      "code": "300313",
+      "name": "天山生物",
+      "v1_price": 12.88,
+      "v1_change_pct": 20.04,
+      "v1_volume": 150723.0,
+      "v4_price": 12.88,
+      "v4_change_pct": 20.04,
+      "v4_volume": 150723.0,
+      "v4_detail": {
+        "BOLL_NOW": "月✓ 周✓ 日✓",
+        "BOLL": "月✓ 周✓ 日✓",
+        "MACD": "月✓ 周✓ 日✓",
+        "OBV": "月✓ 周✓ 日✓",
+        "DMA": "月✓ 周✓",
+        "AMO": "✓",
+        "KDJ": "月✓ 周✓ 日✓"
+      }
+    },
     {
       "code": "601886",
       "name": "江河集团",
-      "v1_price": 12.75,
-      "v1_change_pct": 8.51,
-      "v1_volume": 464768.0,
-      "v4_price": 12.75,
-      "v4_change_pct": 8.51,
-      "v4_volume": 464768.0,
+      "v1_price": 12.73,
+      "v1_change_pct": -0.16,
+      "v1_volume": 375343.0,
+      "v4_price": 12.73,
+      "v4_change_pct": -0.16,
+      "v4_volume": 375343.0,
       "v4_detail": {
         "BOLL_NOW": "月✓ 周✓ 日✓",
         "BOLL": "月✓ 周✓ 日✓",
