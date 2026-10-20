@@ -1,28 +1,8 @@
 {
-  "update_time": "2026-10-19 15:26:23",
+  "update_time": "2026-10-20 13:28:19",
   "strategy": "V5 - V1 & V4 重合股筛选",
   "v1_count": 2,
   "v4_count": 2,
-  "count": 1,
-  "stocks": [
-    {
-      "code": "601858",
-      "name": "中国科传",
-      "v1_price": 26.52,
-      "v1_change_pct": 1.07,
-      "v1_volume": 271887.62,
-      "v4_price": 26.52,
-      "v4_change_pct": 1.07,
-      "v4_volume": 271887.62,
-      "v4_detail": {
-        "BOLL_NOW": "月✓ 周✓ 日✓",
-        "BOLL": "月✓ 周✓ 日✓",
-        "MACD": "月✓ 周✓ 日✓",
-        "OBV": "月✓ 周✓ 日✓",
-        "DMA": "月✓ 周✓",
-        "AMO": "✓",
-        "KDJ": "月✓ 周✓ 日✓"
-      }
-    }
-  ]
+  "count": 0,
+  "stocks": []
 }
